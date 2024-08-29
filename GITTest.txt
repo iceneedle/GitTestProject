@@ -1,0 +1,3 @@
+This is a test file for verifying the installation of GIT on this machine.
+I've just added a second line to this file.
+Here's a third line of text.
